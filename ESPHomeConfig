@@ -5,9 +5,9 @@ esphome:
   
 
 wifi:
-  ssid: "BTWholeHome-KF6"
+  ssid: "SSID"
   password: "PASSWORD"
-  use_address: 172.24.1.210 # roomsensor1
+  use_address: IPADDRESS # roomsensor1
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
     ssid: "Roomsensor1 Fallback Hotspot"
